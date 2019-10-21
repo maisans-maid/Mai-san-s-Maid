@@ -1,0 +1,167 @@
+{
+  "kiss":{
+    "imageURL":[
+      "https://media.giphy.com/media/bGm9FuBCGg4SY/giphy.gif",
+      "http://giphygifs.s3.amazonaws.com/media/FqBTvSNjNzeZG/giphy.gif",
+      "https://thumbs.gfycat.com/FondEvergreenIcterinewarbler-max-1mb.gif",
+      "http://giphygifs.s3.amazonaws.com/media/nyGFcsP0kAobm/giphy.gif",
+      "https://data.whicdn.com/images/296336556/original.gif"
+    ],
+
+    "errorReply":[
+      "Unfortunately, you cannot kiss the air. Try again, but mention someone next time.",
+      "Too bad, Oxygen's the only thing your guts could kiss. Poor thing.",
+      "Couldn't you put an effort to mention someone?",
+      "You should've mentioned me instead if you couldn't kiss somebody. Joke desu!",
+      "Try harder!",
+      "It's missing a mention.",
+      "Did you know that I'm not a Genie? I couldn't tell who you would like to kiss!"
+    ]
+  },
+
+
+  "bully":{
+    "imageURL":[
+      "https://media1.tenor.com/images/75d23ea3deef54f1bb0cba73957ede72/tenor.gif",
+      "https://68.media.tumblr.com/39eafac12f26e52df1740653edd60809/tumblr_okpm9i78P11vj5j9co3_500.gif",
+      "https://media1.tenor.com/images/a5b0c596a130bff78b062749bd75ac77/tenor.gif",
+      "https://media2.giphy.com/media/aynzEXwK8EXgQ/source.gif",
+      "https://cdn.discordapp.com/attachments/594762200875401229/597223698080071696/usl26scss2zvzdv.gif",
+      "https://media1.tenor.com/images/75d23ea3deef54f1bb0cba73957ede72/tenor.gif",
+      "https://68.media.tumblr.com/20cbb2026baf7d7dc2f14caf83a38ad6/tumblr_ok09be5PWF1uzwbyjo4_540.gif",
+      "https://66.media.tumblr.com/ab52e2d3ba9cfd4962a03f2a42a0d4fa/tumblr_o85mtldUrC1vufqdfo1_400.gif",
+      "https://i.gifer.com/J8QQ.gif",
+      "https://media1.tenor.com/images/37891941e0f26a51e811d0204f1631cc/tenor.gif",
+      "https://media3.giphy.com/media/cukVTCemUG0kU/source.gif"
+    ],
+
+    "errorReply":[
+      "Unfortunately, you cannot bully the air. Try again, but mention someone next time.",
+      "Too bad, Oxygen's the only thing your guts could bully. Poor thing.",
+      "Couldn't you put an effort to mention someone?",
+      "Bullying somebody is not this hard.\n\nStep1: type -bully.\nStep2: mention someone.\nStep3: Viola!.",
+      "Try harder!",
+      "It's missing a mention.",
+      "Did you know that I'm not a Genie? I couldn't tell who you would like to bully!"
+    ]
+  },
+
+  "hug":{
+    "imageURL":[
+      "https://media1.tenor.com/images/49a21e182fcdfb3e96cc9d9421f8ee3f/tenor.gif",
+      "http://giphygifs.s3.amazonaws.com/media/143v0Z4767T15e/giphy.gif",
+      "http://pa1.narvii.com/6008/874b411ada321b7f4fe72c71e1c1d42eebc10ee2_00.gif",
+      "https://i.redd.it/jcci1ujc37yy.gif",
+      "https://cdn.discordapp.com/attachments/517613372661825538/604712140779290655/4.gif",
+      "https://www.geekygiftideas.com/wp-content/uploads/anime-hoodie-geeky-gift-ideas.gif",
+      "https://66.media.tumblr.com/18fdf4adcb5ad89f5469a91e860f80ba/tumblr_oltayyHynP1sy5k7wo1_400.gif",
+      "https://media1.tenor.com/images/b0de026a12e20137a654b5e2e65e2aed/tenor.gif",
+      "https://i.imgur.com/r9aU2xv.gif",
+      "http://66.media.tumblr.com/680b69563aceba3df48b4483d007bce3/tumblr_mxre7hEX4h1sc1kfto1_500.gif",
+      "https://i.pinimg.com/originals/02/7e/0a/027e0ab608f8b84a25b2d2b1d223edec.gif",
+      "https://thumbs.gfycat.com/JealousFlakyArabianwildcat-max-1mb.gif",
+      "https://thumbs.gfycat.com/AlienatedUnawareArcherfish-max-1mb.gif",
+      "https://i.gifer.com/8X6d.gif",
+      "https://cdn.discordapp.com/attachments/517613372661825538/604667093581037569/1.gif",
+      "https://pa1.narvii.com/7056/3a7473f4937d5b560fbbf2d1bc8a80e67fdcebder1-540-302_hq.gif",
+      "http://giphygifs.s3.amazonaws.com/media/od5H3PmEG5EVq/giphy.gif",
+      "https://66.media.tumblr.com/8d7f21698a2e2c85bf9ff7a829488336/tumblr_nmrmhleuYw1u4zujko1_400.gif",
+      "https://uploads.disquscdn.com/images/bc9c1f4bd27f8aaa877e1923932f0be757ea2dd597228094483086d8e6fb8f89.gif"
+    ],
+
+    "errorReply":[
+      "Unfortunately, you cannot hug the air. Try again, but mention someone next time.",
+      "Couldn't you put an effort to mention someone?",
+      "Hugging somebody was never this hard.\n\nStep1: type -hug.\nStep2: mention someone.\nStep3: Viola!.",
+      "Try harder!",
+      "It's missing a mention.",
+      "Did you know that I'm not a Genie? I couldn't tell who you would like to hug!"
+    ]
+},
+
+  "hungry":{
+  "imageURL":[
+    "http://cdn.lowgif.com/full/d8032e5f4d0b4a8b-when-u-start-eating-anime-amino.gif",
+    "https://media.giphy.com/media/xYy3O2fGTfflS/giphy.gif",
+    "https://pa1.narvii.com/6447/056569046d7a64c43132de7ff45d0c9a3fb3c35f_hq.gif",
+    "http://cdn.lowgif.com/full/65a57b8c48787202-kanna-eating-rice-dragon-maid-animegifs.gif",
+    "https://66.media.tumblr.com/733163d5dde9519d6cca1e03980be581/tumblr_inline_p7l32ml1hm1v3eowb_500.gif",
+    "http://3.bp.blogspot.com/-WJhVQeTSHRY/VEyU8QDndgI/AAAAAAAAV7E/DDxSbVaPKjk/s1600/anime-food-eating-hungry-ramen.gif",
+    "https://media1.tenor.com/images/128c1cfb7f4e6ea4a4dce9b487648143/tenor.gif",
+    "https://i.redd.it/27m3aya9fljy.gif",
+    "https://pa1.narvii.com/6786/1114413aa02bbf625f2aec10ae75b4274ab7889e_hq.gif",
+    "https://thumbs.gfycat.com/FickleConcreteAfricanparadiseflycatcher-size_restricted.gif",
+    "https://i.imgur.com/PHkGH2r.gif"
+  ],
+
+  "errorReply":[
+    "Really, You predicted that he's hungry?",
+    "Chotto matte, You're hungry desu nee? Not the one that you mentioned?",
+    "Don't mention somebody!!!!",
+    "Try harder!",
+    "It should be missing a mention.",
+    "Not listening to you!",
+    "shiranai!"
+  ]
+},
+
+  "pat":{
+  "imageURL":[
+    "https://cdn.discordapp.com/attachments/593004441330778112/604298869085306910/2.gif",
+    "https://cdn.zerotwo.dev/PAT/c293da47-09df-4609-a46a-960b2a0b4df6.gif",
+    "https://i.imgur.com/2lacG7l.gif",
+    "https://thumbs.gfycat.com/AgileHeavyGecko-max-1mb.gif",
+    "https://i.imgur.com/4ssddEQ.gif",
+    "https://media1.tenor.com/images/c0bcaeaa785a6bdf1fae82ecac65d0cc/tenor.gif",
+    "https://66.media.tumblr.com/6289c42ea805f475698f02207da0a377/tumblr_p14hcsxPsb1tm1dgio1_400.gif",
+    "https://i.imgur.com/UWbKpx8.gif",
+    "https://cdn.discordapp.com/attachments/594762200875401229/594807256378376222/HAXEVW7Q7Y5BG5X5B7QNFUTYHKMK4LQTRYFOXDTPODUQWN2J2G3O67JR6ZVAX5Q6OYCXDKF35FBNHK4BUTMWFGVXS7EE2PQYUSY4.gif",
+    "https://66.media.tumblr.com/f94eb1143883554a0c7825f75d593756/tumblr_pjr04jWu3x1tm1dgio2_540.gif",
+    "https://i.pinimg.com/originals/cc/b8/57/ccb857b813847072010d43aa8c85ceb1.gif",
+    "https://66.media.tumblr.com/7cb1e325559b682ca822340411e888cc/tumblr_ozfjmipJC71tm1dgio1_500.gif",
+    "https://media1.tenor.com/images/f5176d4c5cbb776e85af5dcc5eea59be/tenor.gif",
+    "https://media1.tenor.com/images/54722063c802bac30d928db3bf3cc3b4/tenor.gif",
+    "https://i.pinimg.com/originals/d1/14/56/d11456b511e27f746ee2ca46d0e30dd6.gif",
+    "https://media1.tenor.com/images/1e92c03121c0bd6688d17eef8d275ea7/tenor.gif",
+    "https://66.media.tumblr.com/ea0a3110ef50e46336f9a996eb416ece/tumblr_p2kzogLOZU1vajq0ro4_500.gif"
+  ],
+
+  "errorReply":[
+    "Unfortunately, you cannot pat the air. Try again, but mention someone next time.",
+    "Couldn't you put an effort to mention someone?",
+    "Patting somebody was never this hard.\n\nStep1: type -pat.\nStep2: mention someone.\nStep3: Viola!.",
+    "Try harder!",
+    "It's missing a mention.",
+    "Did you know that I'm not a Genie? I couldn't tell who you would like to pat!",
+    "Not listening..."
+  ]
+},
+
+  "pout":{
+  "imageURL":[
+    "https://media1.tenor.com/images/c8bf65854104f13e8e2cdc9453c5222f/tenor.gif",
+    "https://media1.tenor.com/images/58a26a738703565f7fc276aedabfcfb3/tenor.gif",
+    "https://media1.tenor.com/images/b3896a1b2f467cad24840634b0d0043d/tenor.gif",
+    "https://media1.tenor.com/images/df03f2f28e267792e5074bf31f9a0ef3/tenor.gif",
+    "https://pa1.narvii.com/5929/3baf9b4352c9fdae32c7e08fb1c3855cb28a77eb_hq.gif",
+    "http://i.imgur.com/5y1ketp.gif",
+    "https://4.bp.blogspot.com/-Lxv6_nX05gM/WcsPL5Cv4qI/AAAAAAAA8P4/UlCJE9BJkW88FFhckX2F0LhcPFP8ppIMACKgBGAs/s1600/Omake%2BGif%2BAnime%2B-%2BNew%2BGame%2521%2521%2B-%2BEpisode%2B12%2B%255BEND%255D%2B-%2BRin%2BPouts.gif",
+    "https://66.media.tumblr.com/08ee3ae912b127745b9c88ff34b1aebd/tumblr_pm7xs3EowU1v1hotuo2_500.png",
+    "http://i.imgur.com/FXbChLe.gif",
+    "http://pa1.narvii.com/5805/6f8b4788caf1fc9f343ced4a93d43787a4022477_hq.gif",
+    "https://i.gifer.com/BWDf.gif",
+    "https://thumbs.gfycat.com/MeaslyJaggedBrontosaurus-size_restricted.gif"
+  ],
+
+  "errorReply":[
+    "Chotto Matte yo! Ordering somebody to pout? Hidoi Onii-chan!",
+    "Hmpppp. Shiranai!",
+    "Dont mention anyone! Onegaishimasu!!!!",
+    "Try harder!",
+    "It's missing a mention.",
+    "Shine!!",
+    "Not listening..."
+  ]
+}
+
+}

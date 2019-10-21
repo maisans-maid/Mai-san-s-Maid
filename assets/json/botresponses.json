@@ -1,0 +1,136 @@
+{
+  "goodMorningResponse": [
+    "Good Morning! Senpai",
+    "Hai, Senpai! OOhayo!",
+    "Oh Senpai! You remembered that I exist! Good Morning to you too!",
+    "Good Morning, but it's not that I like it when you greet me, BAKA!",
+    "Ohayo Gozaimasu! ( ≧Д≦)",
+    "Hai! Ohayo!",
+    "Ohayo Gozaimasu, senpai!",
+    "Good Morning to you too!",
+    "A pleasant morning to you also",
+    "Good Morning! May a pleasant of blessings come upon you!",
+    "Ara-ara, you want me to respond to your morning greeting?",
+    "Good Morning!",
+    "Yes, It is indeed a good one!",
+    "Senpai! Ohayo Gozaimashita!"],
+
+  "goodAfternoonResponse": [
+    "Good afternoon! Senpai",
+    "Hai! Konnichiwa!",
+    "Konnichiwa! Senpai!",
+    "Good Afternoon",
+    "A warm afternoon to you also",
+    "Hmm, Good Afternoon too!"
+  ],
+
+  "goodEveningResponse":[
+    "Good Evening! Senpai",
+    "Hai! Senpai! Konbanwa!",
+    "Good Evening!",
+    "Konbanwa!",
+    "A cold evening to you also."
+  ],
+
+  "hiResponse":[
+    "Hi!",
+    "Hello!",
+    "Hi Senpai!",
+    "Hello Senpai!",
+    "Domo"
+  ],
+
+  "iLoveYouResponses": [
+    "Senpai, Aishiteru!",
+    "Daisuki desu!",
+    "I love you too senpai!",
+    "Senpai, you're in love with a bot?",
+    "💢Baka! Stop saying things like that!",
+    "Urusai! Urusai! Urusai!",
+    "Anata wa Baka Desu ka?",
+    "Aho!",
+    "Baka!",
+    "Senpai no ecchi!",
+    "Hentai!",
+    "Kyah! There's a pervert here!",
+    "What, you expect me lo..love back a filthy worm like you?",
+    "Why are you doing that to me?",
+    "Hmmp! It's not that I love you or anything, you should just be grateful that I replied!",
+    "Baka! What if somebody heard you? They'll think you're weird!",
+    "Muzukashii na~",
+    "Watashi wa..... eto.... ano..... Mou senpai! Yamete Kudasai!",
+    "Yamenasai!",
+    "Souka?",
+    "Hontou?",
+    "Really?",
+    "Well, I'm not surprised."
+  ],
+
+  "yesResponses": [
+    "Hai!",
+    "Yes!",
+    "Uh-uh",
+    "You're right",
+    "Yep",
+    "Exactly!",
+    "Yah",
+    "Yeah",
+    "Yippe!",
+    "YESSS!",
+    "Yes!",
+    "Definitely Yes!",
+    "Yesh",
+    "You're right!",
+    "Positive",
+    "Yes, of course"
+  ],
+
+  "noResponses": [
+    "Chigau!",
+    "Iie!",
+    "Nope!",
+    "Chigau! Chigau!",
+    "Baka! of course not!",
+    "No",
+    "Not of any sort",
+    "Negative",
+    "NOOOOO!",
+    "It's not",
+    "You're wrong!",
+    "Definitely not!",
+    "No! It's not!",
+    "Never in my life!"
+  ],
+
+  "neutralResponses" : [
+    "Wakaranai",
+    "I don't know",
+    "No Idea",
+    "I don't really know",
+    "I can't answer that",
+    "I can't give you an answer for that",
+    "I advise you to google that question of yours",
+    "I'm completely neutral on that matter"
+  ],
+
+  "helpResponses" : [
+    "Doushita no?",
+    "What's wrong?",
+    "Whelp is here! What do you want?",
+    "Is something the matter?",
+    "Is there any problem?",
+    "I would be glad to help you",
+    "What seems to be the problem?",
+    "Do you need my aid?",
+    "How may I help you?"
+  ],
+
+  "commandsResponses" : [
+    "You may type -help for my list of commands",
+    "My syntax is (-), maybe i'll leave it to you to experiment on it!",
+    "You can type -help for my commandlist",
+    "it's **-help**",
+    "`-help`",
+    "It's -help!"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "description": [
+  "Not Set Yet",
+  "Not Set Yet",
+  "Not Set Yet"
+],
+
+  "randTrivia": [
+    "Chilled Lounge and Whatnot first members were originally from AnimeKaizoku Server. ",
+    "Mai-san's Maid was created originally just for fun. Now, it's creator is working hard to host the bot to run 24/7.",
+    "You can give your suggestion on designated server.",
+    "Be a good weeb and you shall be promoted to moderator or even admin after some time.",
+    "Have some anime to talk about? Game to talk about? Share that here to keep the server alive.",
+    "We are aiming for 200 members!"
+  ],
+
+  "color": [
+    "0xf22c05",
+    "0xf26005",
+    "0xf29f05",
+    "0xf2c705",
+    "0xf2ea05",
+    "0xc3f205",
+    "0x8ff205",
+    "0x38f205",
+    "0x05f270",
+    "0x05f2b7",
+    "0x05e2f2",
+    "0x05b3f2",
+    "0x0578f2",
+    "0x0550f2",
+    "0x0509f2",
+    "0x6c05f2",
+    "0xa705f2",
+    "0xe205f2",
+    "0xf205da",
+    "0xf2059b"
+  ],
+
+  "botresponse": [
+  "Oh, you need something from the server, ",
+  "Hmm, there it is, all that I know about this server, ",
+  "Did you need the total membercount? Well, I included the others as well, ",
+  "You came to the right bot, ",
+  "Hmp, so you need my help after all?"
+],
+
+"honorifics": [
+  "kun",
+  "sama",
+  "dono",
+  "chan",
+  "senpai",
+  "kouhai",
+  "san"
+]
+
+}
