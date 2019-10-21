@@ -1,0 +1,48 @@
+{
+  "name": "BOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "keywords": [],
+  "author": "Mai Sakurajima",
+  "license": "ISC",
+  "dependencies": {
+    "9gag.js": "0.0.3-alpha1",
+    "animequote": "^1.1.1",
+    "animequotes": "^1.0.0",
+    "ascii-art": "^1.5.1",
+    "booru": "^2.0.3",
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "gifencoder": "^2.0.1",
+    "hentai-db": "^1.0.4",
+    "jikanjs": "^0.7.0",
+    "jimp": "^0.6.4",
+    "kitsu": "^7.0.4",
+    "mal-scraper": "^2.6.3",
+    "maljs": "^0.3.0",
+    "mathjs": "^6.0.3",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "nani": "^2.4.0",
+    "nekos-image-api": "^1.3.3",
+    "nekos.life": "^2.0.4",
+    "node-kitsu": "^1.1.1",
+    "node-weeb": "^1.0.4",
+    "pornsearch": "^2.4.3",
+    "random-anime-wallpapers": "^1.1.0",
+    "random-puppy": "^1.1.0",
+    "relevant-urban": "^2.0.0",
+    "snekfetch": "^4.0.4",
+    "winston": "^3.2.1"
+  }
+}
